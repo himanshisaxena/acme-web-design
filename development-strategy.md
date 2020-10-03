@@ -1,20 +1,22 @@
 # Development Strategy
 
-> `name-of-project`
+> `My Project`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+Project description:  
+**1. who would want to use it?**  
+My Project is optimized for learning programming language  
+**2. why would they want to use it?**  
+To improve reading and basic understanding.
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](file:///R:/HYF/week2github/index.html)
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+_A User can see my initial repository and live demo_
 
 ### Repo
 
@@ -24,7 +26,7 @@ __A User can see my initial repository and live demo__
 
 ## 1. __
 
-__full user story description__
+_full user story description__
 
 ### Repo
 
@@ -38,7 +40,7 @@ what did you change in the HTML and why?
 
 what did you change in the CSS and why?
 
-## 2. ...
+## 2
 
 ...
 
